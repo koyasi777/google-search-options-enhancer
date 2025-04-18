@@ -1,0 +1,2 @@
+# google-search-options-enhancer
+Google検索結果ページに、詳細検索オプションを即時反映で操作できるサイドバーUIを追加するユーザースクリプトです。
